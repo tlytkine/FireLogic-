@@ -90,7 +90,7 @@ background-size: 64px 128px;
 }
 
 blockquote.bg-gray {
-background: #555555;
+background: #eee;
 border: 1px solid #b3b3b3;
 border-left: 10px solid #b3b3b3;
 color: #ffffff;
@@ -106,6 +106,7 @@ color: #ffffff;
 blockquote.primary {
 border: 1px solid #c97e69;
 border-left: 10px solid #c97e69;
+width: 60%;
 }
  
 blockquote.right.primary {
