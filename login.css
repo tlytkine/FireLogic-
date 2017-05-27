@@ -88,3 +88,33 @@ linear-gradient(225deg, #ff7f3f 22px, #ff7f3f 22px, #ff7f3f 24px, transparent 24
 background-color:#e5000f;
 background-size: 64px 128px;
 }
+
+blockquote.bg-gray {
+background: #555555;
+border: 1px solid #b3b3b3;
+border-left: 10px solid #b3b3b3;
+color: #ffffff;
+}
+ 
+blockquote.bg-primary {
+background: #c97e69;
+border: 1px solid #c97e69;
+border-left: 10px solid #c97e69;
+color: #ffffff;
+}
+ 
+blockquote.primary {
+border: 1px solid #c97e69;
+border-left: 10px solid #c97e69;
+}
+ 
+blockquote.right.primary {
+border-color: #c97e69;
+border-left: 1px solid #c97e69;
+border-right: 10px solid #c97e69;
+}
+ 
+blockquote.right {
+text-align: right;
+border-width: 1px 10px 1px 1px;
+}
