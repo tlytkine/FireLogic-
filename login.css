@@ -82,11 +82,7 @@ input[type="password"] {
 }
 
 body {
-background:
-linear-gradient(135deg, #ff7f3f 22px, #ff7f3f 22px, #ff7f3f 24px, transparent 24px, transparent 67px, #ff7f3f 67px, #ff7f3f 69px, transparent 69px),
-linear-gradient(225deg, #ff7f3f 22px, #ff7f3f 22px, #ff7f3f 24px, transparent 24px, transparent 67px, #ff7f3f 67px, #ff7f3f 69px, transparent 69px)0 64px;
-background-color:#e5000f;
-background-size: 64px 128px;
+background-color:#efe8e8;
 }
 
 blockquote.bg-gray {
