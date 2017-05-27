@@ -10,6 +10,11 @@ a {
   color: white !important;
 }
 
+.bar {
+	margin: auto;
+	float: left;
+}
+
 .navbar-brand {
   margin-right: 3px !important;
 }
