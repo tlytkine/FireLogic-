@@ -19,8 +19,8 @@ a {
 }
 
 #loginbutton{
-  position:absolute;
-  top: -25px;
+  position:absolute !important;
+  top: -25px !important;
 }
 
 .wrapper {
