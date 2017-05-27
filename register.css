@@ -2,7 +2,7 @@
   background-color: #e83306;
 }
 
-.container-fluid a:hover {
+.navbar-header a:hover {
 	background-color:grey;	
 }
 
