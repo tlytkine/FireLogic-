@@ -10,6 +10,10 @@ a {
   color: white !important;
 }
 
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.open>a {
+border-radius: 5px !important;
+}
+
 .bar {
 	margin: auto;
 	float: left;
