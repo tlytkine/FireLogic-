@@ -7,6 +7,10 @@
 	border-radius: 5px;
 }
 
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.open>a {
+border-radius: 5px !important;
+}
+
 a {
   color: white !important;
 }
