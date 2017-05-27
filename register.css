@@ -11,6 +11,7 @@
   background-color:black;
   padding-left: 6px;
   padding-right: -4px;
+	border-radius: 10px;
 }
 
 #login {
