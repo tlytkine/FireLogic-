@@ -41,6 +41,10 @@ a {
   top: -10px !important;
 }
 
+#registerbutton {
+	margin-top: 10px;	
+}
+
 .wrapper {
 	margin-top: 80px;
 	margin-bottom: 20px;
